@@ -1,18 +1,18 @@
 كلمات السر تجدها في 
 /etc/shadow
-
+\
 feline
 Xzluq...ueUA
 
 bucke
 rvx8...RIHK
-
+\
 time:
 tQU...wtUjA7
-
+\
 openkeys:
 4t4M...BtAcl
-
+\
 jewel:
 YwD...UWp4
 
