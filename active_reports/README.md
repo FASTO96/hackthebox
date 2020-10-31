@@ -1,12 +1,13 @@
 
 كلمات السر تجدها في 
-
 /etc/shadow
 
 feline\
 Xzluq...ueUA
-bucke\
+
+bucket\
 rvx8...RIHK
+
 time\
 tQU...wtUjA7
 
@@ -22,8 +23,7 @@ lAY...SM2W
 passage\
 mjc8...xcm
 
-doctor\
-
+doctor
 384T...bhor
 
 tabby
