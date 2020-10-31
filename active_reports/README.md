@@ -1,34 +1,32 @@
 كلمات السر تجدها في 
 /etc/shadow
-\
-feline
-Xzluq...ueUA
 
-bucke
+feline:\
+Xzluq...ueUA
+bucke:\
 rvx8...RIHK
-\
-time:
+time:\
 tQU...wtUjA7
-\
-openkeys:
+
+openkeys:\
 4t4M...BtAcl
-\
-jewel:
+
+jewel:\
 YwD...UWp4
 
-comp:
+comp:\
 lAY...SM2W
 
-passage:
+passage:\
 mjc8...xcm
 
-doctor:
+doctor:\
 
 384T...bhor
 
-tabby:
+tabby:\
 86N...BrUO
 
-worker:
+worker:\
 c699...d84f
 
